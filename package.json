@@ -1,0 +1,23 @@
+{
+  "name": "aws-iam-rename",
+  "version": "1.0.0",
+  "description": "Utility to rename AWS IAM users",
+  "main": "bin/list_users.js",
+  "scripts": {
+    "list_users": "node bin/list_users.js",
+    "update_users": "node bin/update_users.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TODO"
+  },
+  "keywords": [
+    "aws",
+    "utility"
+  ],
+  "author": "Tim Myerscough",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.86.0"
+  }
+}
