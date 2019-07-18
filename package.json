@@ -18,6 +18,6 @@
   "author": "Tim Myerscough",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.86.0"
+    "aws-sdk": "^2.178.0"
   }
 }
